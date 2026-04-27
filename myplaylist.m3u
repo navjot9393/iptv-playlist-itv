@@ -31,7 +31,7 @@ https://vg-pitaaratvlive.akamaized.net/v1/vglive-sk-906482/playlist.m3u8
 https://chardikalatimestv.gigabitcdn.net/in-chardikala/chardikala-gurbani-tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Colors.in@HD" tvg-logo="https://i.imgur.com/M8uCJ0D.png" group-title="Entertainment",Colors HD (1080p)
 http://103.229.254.25:7001/play/a0a1/index.m3u8
-#EXTINF:-1 tvg-id="Dangal2.in@SD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dangal-2-in.png" group-title="Entertainment",Dangal 2 (720p)
+#EXTINF:-1 tvg-id="Dangal2.in@SD" tvg-logo="https://i.imgur.com/BEr1r7L.png" group-title="Entertainment",Dangal 2 (720p)
 https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="DangalTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DANGAL/images/LOGO_HD/image.png" group-title="General",Dangal TV (720p)
 https://live-dangal.akamaized.net/liveabr/playlist.m3u8
@@ -163,14 +163,12 @@ https://cdn12.henico.net:8443/live/ssct/index.m3u8
 https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="SonyMax.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_MAX/images/LOGO_HD/image.png" group-title="Movies",Sony Max HD (1080p) [Geo-blocked]
 https://sl.vodep39240327.workers.dev/channel/SONY%20MAX%20HD.m3u8
-#EXTINF:-1 tvg-id="StarGold2.in@HD" tvg-logo="https://i.imgur.com/G0ZfzZr.png" group-title="Movies",Star Gold 2 HD (1080p)
-http://103.229.254.25:7001/play/a0d0/index.m3u8
 #EXTINF:-1 tvg-id="StarGold.in@HD" tvg-logo="https://i.imgur.com/xC460sj.png" group-title="Movies",Star Gold HD (1080p)
 http://103.229.254.25:7001/play/a0dd/index.m3u8
 #EXTINF:-1 tvg-id="StarPravah.in@HD" tvg-logo="https://i.imgur.com/ZT0u7AK.png" http-referrer="https://tulnit.com" group-title="Entertainment",Star Pravah HD (1080p)
 #EXTVLCOPT:http-referrer=https://tulnit.com
 #EXTINF:-1 tvg-id="StarSports1.in@HD" tvg-logo="https://i.imgur.com/E5jjKHI.png" group-title="Sports",Star Sports 1 HD (1080p)
-http://ptuf.ridsys.in/riptv/live/STAR_SPORTS_1_HD/index.m3u8
+http://103.253.18.58:8000/play/a00m
 #EXTINF:-1 tvg-id="WBRATV153.us@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/PBS_Kids_logo_%282022%29.svg" group-title="Undefined",WBRA PBS Kids (1080p)
 https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est_124.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Undefined",World Punjabi Tv (1080p)
