@@ -2,10 +2,7 @@ PTC Punjabi
 PTC News
 Prime Asia TV
 DD Punjabi
-Balle Balle
-MH One
-MH One News
-MH One Movies
+Balle Balle TV
 News18 India
 9X Tashan
 Aaj Tak HD (1080p)
@@ -16,10 +13,8 @@ Baby Shark TV (1080p)
 Chardikla Gurbaani TV (1080p)
 Desi Channel (720p)
 Fateh TV (576p)
-Gaunda Punjab TV
 Global Punjab (1080p)
 GTC Punjabi (1080p)
-Gursikh Sabha TV (720p)
 India News Punjab/Himachal (1080p)
 Manoranjan TV (720p)
 Mankranjan Movies (720p)
@@ -35,4 +30,5 @@ Shenaroo Bollywood (1080p)
 Sikh Spiritual Centre Rexdale (720p)
 Sony Kal Hindi (1080p)
 Zee Punjab Haryana Himachal (720p)
-Pitaara (720p)
+Pitaara
+GTC News
